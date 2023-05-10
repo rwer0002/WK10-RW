@@ -1,0 +1,12 @@
+---
+title: "WK10-RW"
+author: "Rachitha Werake"
+date: "2023-05-10"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+
